@@ -5,11 +5,11 @@ CakePHP 2.0 component using Amazon's AWS S3 API
 
 Tools
 -----------
-Upload object for both public and private 
-Download object to TMP folder
-Secure Read
-Delete object
-Check if object exists
+- Upload object for both public and private
+- Download object to TMP folder
+- Secure Read
+- Delete object
+- Check if object exists
 
 Configuration:
 
